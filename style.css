@@ -1,0 +1,5 @@
+#game {
+display: grid ;
+grid-template-columns: repeat(3, 10vmin);
+grid-template-rows: repeat(3, 10vmin );
+}
