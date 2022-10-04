@@ -1,5 +1,15 @@
 #game {
 display: grid ;
-grid-template-columns: repeat(3, 10vmin);
-grid-template-rows: repeat(3, 10vmin );
+grid-template-rows: repeat(8, 8vmax);
+grid-template-columns: repeat(8, 8vmax );
+
 }
+
+.dark-tile {
+background-color: rgb(81, 42, 42);
+}
+
+.light-tile{
+  background-color: blanchedalmond;
+}
+
