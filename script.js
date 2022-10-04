@@ -15,5 +15,5 @@ const lightTile = document.getElementsByClassName('dark-tile')
 const replayButton = document.getElementById('replay-button')
 const playButton = document.getElementById('play-button')
 
-    
+  
 

@@ -17,6 +17,17 @@ justify-content: center;
   border: 2px solid white;
 }
 
+span.light-piece {
+  background-color: bisque;
+  border: 2px solid white;
+  border-radius: 50%;
+  padding: 20px;
+  height: 5px;
+  display: inline-block;
+  margin-left: 13px;
+  margin-top: 10px;
+}
+
 h1 {
   text-align: center;
   font-size: 50px ;
