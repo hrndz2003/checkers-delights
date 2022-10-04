@@ -6,6 +6,17 @@ justify-content: center;
 
 }
 
+.dark-piece {
+  background-color: black;
+  border-radius: 50%;
+  height: 20px;
+  padding: 12px;
+  width: 20px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  border: 2px solid white;
+}
+
 h1 {
   text-align: center;
   font-size: 50px ;
