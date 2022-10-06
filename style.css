@@ -38,6 +38,13 @@ background-color: rgb(81, 42, 42);
 
 }
 
+king.dark-piece {
+  background-color: red;
+}
+
+king.light-piece {
+  background-color: green;
+}
 .light-tile{
   background-color: blanchedalmond;
   border: solid black;
